@@ -68,11 +68,15 @@ a:hover{
 	-webkit-border-radius: 0 0 7px 7px;
      border-radius: 0 0 7px 7px;
 	 padding-bottom:9px;
-	 background: url(images/header-image.jpg) top right no-repeat;
+
 }
 
 	/* header */
 
+#header{
+	 background: url(images/header-image.jpg) top right no-repeat;
+	
+}
 		
 #logo{
 	width:243px;
